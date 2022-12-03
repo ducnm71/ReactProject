@@ -1,0 +1,190 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Nguyen Minh Duc",
+      "email": "ducn7128@gmail.com",
+      "password": "1234567",
+      "dob": "07/01/2003",
+      "address": "Ha Noi",
+      "phone": "0988232362",
+      "img": "https://avatars.preply.com/i/logos/i/logos/avatar_wslh02bek4c.jpg",
+      "class": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dang Van Cuong",
+      "email": "ducnm.hrt@gmail.com",
+      "password": "1234567",
+      "dob": "29/06/2003",
+      "address": "Ha Giang",
+      "phone": "0776224099",
+      "img": "https://avatars.preply.com/i/logos/i/logos/avatar_wslh02bek4c.jpg",
+      "class": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nguyen Xuan Chinh",
+      "email": "ducn7128@gmail.com",
+      "password": "1234567",
+      "dob": "11/06/2003",
+      "address": "Cao Bang",
+      "phone": "0984163968"
+    },
+    {
+      "id": 4,
+      "name": "Nguyen Dac Dat",
+      "email": "ducn7128@gmail.com",
+      "password": "1234567",
+      "dob": "30/03/2003",
+      "address": "Thai Binh",
+      "phone": "0934527270"
+    },
+    {
+      "id": 5,
+      "name": "Dang Hoang Anh",
+      "email": "ducn7128@gmail.com",
+      "password": "1234567",
+      "dob": "01/08/2003",
+      "address": "Nghe An",
+      "phone": "0762023368"
+    },
+    {
+      "id": 6,
+      "name": "Duong Ky Anh",
+      "email": "ducn7128@gmail.com",
+      "password": "1234567",
+      "dob": "22/02/2003",
+      "address": "Ha Noi",
+      "phone": "0937878680"
+    },
+    {
+      "id": 7,
+      "name": "Nguyen Xuan Hieu",
+      "email": "ducn7128@gmail.com",
+      "password": "1234567",
+      "dob": "16/09/2003",
+      "address": "Son La",
+      "phone": "0973473843"
+    },
+    {
+      "id": 8,
+      "name": "Duong Thanh Tung",
+      "email": "ducn7128@gmail.com",
+      "password": "1234567",
+      "dob": "21/01/2003",
+      "address": "Nam Dinh",
+      "phone": "0934887584"
+    },
+    {
+      "id": 9,
+      "name": "Nguyen Van Nam",
+      "email": "ducn7128@gmail.com",
+      "password": "1234567",
+      "dob": "06/11/2003",
+      "address": "Bac Giang",
+      "phone": "0379475947"
+    },
+    {
+      "id": 10,
+      "name": "Nguyen Van Vu",
+      "email": "ducn7128@gmail.com",
+      "password": "1234567",
+      "dob": "11/01/2003",
+      "address": "Ha Nam",
+      "phone": "0867374739"
+    },
+    {
+      "id": 11
+    }
+  ],
+  "class": [
+    {
+      "teacherImg": "https://event.mediacdn.vn/2020/11/18/justatee-p-16056798456551914748292.png",
+      "teacherName": "Justatee",
+      "img": "https://repository-images.githubusercontent.com/403817624/3d10f761-1027-4d0a-9906-48361e466d87",
+      "name": "Data Structure and Agorithnm",
+      "id": 1
+    },
+    {
+      "teacherImg": "https://yt3.ggpht.com/PEk69mTAxuH0HufHMPfpoNs8083NDC5EXRUeJK9ACkkgdmvPEG6Oh_I5KLCuuOSlH79u0QRWHw=s900-c-k-c0x00ffffff-no-rj",
+      "teacherName": "Rhymastic",
+      "img": "https://cdn2.hubspot.net/hubfs/725165/Screen%20Shot%202020-03-20%20at%209.42.52%20AM.png",
+      "name": "Object Oriented Programming",
+      "id": 2
+    },
+    {
+      "teacherImg": "https://lamsao.vn/wp-content/uploads/2020/11/word-image-28.png",
+      "teacherName": "BinZ Da Poet",
+      "img": "https://contentstatic.techgig.com/photo/77786852/top-7-most-used-databases-by-developers-in-2020.jpg?182293",
+      "name": "Data Base",
+      "id": 3
+    },
+    {
+      "teacherImg": "https://sohanews.sohacdn.com/zoom/480_300/160588918557773824/2020/6/10/photo1591787905481-15917879058171533893897.jpg",
+      "teacherName": "Soobin",
+      "img": "https://miro.medium.com/max/700/0*pPgqu6f2zz76HrQE.jpg",
+      "name": "Computer Structure",
+      "id": 4
+    },
+    {
+      "teacherImg": "https://ss-images.saostar.vn/2018/01/10/2022745/trip.jpg",
+      "teacherName": "TripleD",
+      "img": "https://www.analyticsinsight.net/wp-content/uploads/2020/06/AI-and-Data.jpeg",
+      "name": "Data Mining",
+      "id": 5
+    },
+    {
+      "teacherImg": "https://s3.cloud.cmctelecom.vn/tinhte2/2020/03/4943624_tinhte_hoang_touliver_1.jpg",
+      "teacherName": "Touliver",
+      "img": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2022/10/19031103/HIRE-FULL-STACK-DEVELOPER.png",
+      "name": "Full Stack",
+      "id": 6
+    }
+  ],
+  "post": [
+    {
+      "date": "22/02/2022 22:22",
+      "caption": "Hello World!",
+      "img": "https://www.corewebprogramming.com/wp-content/uploads/2022/05/gabriel-heinzer-g5jpH62pwes-unsplash.jpg",
+      "numberCmt": 1,
+      "contentCmt": "Yeahhh!"
+    },
+    {
+      "date": "22/02/2022 22:22",
+      "caption": "What type of this sorting?",
+      "img": "",
+      "numberCmt": 1,
+      "contentCmt": "This is bubble sort!"
+    }
+  ],
+  "exercise": [
+    {
+      "link": "https://www.inf.usi.ch/carzaniga/edu/algo17s/exercises.pdf",
+      "name": "Data Structure Basic",
+      "dl": "5 days left"
+    },
+    {
+      "link": "https://vnoi.info/wiki/algo/dp/basic-problems.md",
+      "name": "Agorithnm Basic",
+      "dl": "10 days left"
+    },
+    {
+      "link": "https://www.hackerrank.com/challenges/bfsshortreach/problem?isFullScreen=true",
+      "name": "Merge Sort",
+      "dl": "15 days left"
+    },
+    {
+      "link": "https://www.hackerrank.com/challenges/dijkstrashortreach/problem?h_r=profile",
+      "name": "Binery Search Tree",
+      "dl": "20 days left"
+    }
+  ]
+}

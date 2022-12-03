@@ -1,0 +1,43 @@
+.k-current-time{
+    background: #6284FF;
+}
+.k-button-solid-base.k-selected{
+    border-color: #6284FF;
+    background-color: #6284FF;
+}
+
+.k-scheduler-layout td.k-selected, .k-scheduler-layout .k-scheduler-cell.k-selected{
+    background-color: #99CCFF;
+}
+
+.k-dialog-titlebar{
+    background-color: #6284FF;
+    border-color: inherit;
+}
+
+.k-checkbox:checked, .k-checkbox.k-checked{
+    border-color: #6284FF;
+    background-color: #6284FF;
+}
+
+.k-radio:checked, .k-radio.k-checked{
+    border-color: #6284FF;
+    background-color: #6284FF;
+}
+
+.k-input-solid.k-invalid, .k-input-solid.ng-invalid.ng-touched, .k-input-solid.ng-invalid.ng-dirty{
+    border-color: #6284FF;
+}
+.k-event-template{
+    border-color: #6284FF;
+    background-color: #6284FF;
+}
+.k-event{
+    border-color: #6284FF;
+    background-color: #6284FF;
+    
+}
+.k-event.k-selected{
+    border-color: #6284FF;
+    background-color: #6284FF;
+}
