@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactProject/static/css/main.77d4a2a3.css",
-    "main.js": "/ReactProject/static/js/main.0acef4bf.js",
-    "static/js/787.b419e19b.chunk.js": "/ReactProject/static/js/787.b419e19b.chunk.js",
-    "static/media/logo.png": "/ReactProject/static/media/logo.e7b1526b66af8448a243.png",
-    "static/media/bubbleSort.png": "/ReactProject/static/media/bubbleSort.722d2cc39b17d443053e.png",
-    "index.html": "/ReactProject/index.html",
-    "main.77d4a2a3.css.map": "/ReactProject/static/css/main.77d4a2a3.css.map",
-    "main.0acef4bf.js.map": "/ReactProject/static/js/main.0acef4bf.js.map",
-    "787.b419e19b.chunk.js.map": "/ReactProject/static/js/787.b419e19b.chunk.js.map"
+    "main.css": "/static/css/main.77d4a2a3.css",
+    "main.js": "/static/js/main.837abaf8.js",
+    "static/js/787.ec704a7a.chunk.js": "/static/js/787.ec704a7a.chunk.js",
+    "static/media/logo.png": "/static/media/logo.e7b1526b66af8448a243.png",
+    "static/media/bubbleSort.png": "/static/media/bubbleSort.722d2cc39b17d443053e.png",
+    "index.html": "/index.html",
+    "main.77d4a2a3.css.map": "/static/css/main.77d4a2a3.css.map",
+    "main.837abaf8.js.map": "/static/js/main.837abaf8.js.map",
+    "787.ec704a7a.chunk.js.map": "/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77d4a2a3.css",
-    "static/js/main.0acef4bf.js"
+    "static/js/main.837abaf8.js"
   ]
 }
