@@ -56,7 +56,7 @@ const Header = () => {
             to=""
             onClick={() => {
               localStorage.clear();
-              window.location.replace("http://localhost:3000");
+              window.location.replace("https://react-project-tawny.vercel.app/");
             }}
           >
             <box-icon name="log-out" size="md"></box-icon>
