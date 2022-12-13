@@ -94,15 +94,12 @@
     },
     {
       "id": 10,
-      "name": "Nguyen Van Vu",
+      "name": "Nguyen Hung Vu",
       "email": "ducn7128@gmail.com",
       "password": "1234567",
       "dob": "11/01/2003",
       "address": "Ha Nam",
       "phone": "0867374739"
-    },
-    {
-      "id": 11
     }
   ],
   "class": [
@@ -130,7 +127,7 @@
     {
       "teacherImg": "https://sohanews.sohacdn.com/zoom/480_300/160588918557773824/2020/6/10/photo1591787905481-15917879058171533893897.jpg",
       "teacherName": "Soobin",
-      "img": "https://miro.medium.com/max/700/0*pPgqu6f2zz76HrQE.jpg",
+      "img": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202006/MIT-Evaluating-Performance_0-2.jpg?itok=8DR__Um9",
       "name": "Computer Structure",
       "id": 4
     },
