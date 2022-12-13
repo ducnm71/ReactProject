@@ -28,7 +28,7 @@ const Assignments = () => {
                   className="tr"
                   onClick={() => {
                     window.location.replace(
-                      "http://localhost:3000/class/detail/1#exercises"
+                      "https://react-project-tawny.vercel.app/class/detail/1#exercises"
                     );
                   }}
                 >

@@ -117,7 +117,7 @@ const Class = () => {
                 toast.loading("please wait a second!")
                 return(
                   setTimeout(() => {
-                    window.location.replace(`http://localhost:3000/class/detail/${index+1}`)
+                    window.location.replace(`https://react-project-tawny.vercel.app/class/detail/${index+1}`)
                   },2000)
                   
                 

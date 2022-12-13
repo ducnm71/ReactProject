@@ -30,7 +30,7 @@ const Documents = () => {
                   className="tr"
                   onClick={() => {
                     window.location.replace(
-                      "http://localhost:3000/class/detail/6#documentclass"
+                      "https://react-project-tawny.vercel.app/class/detail/6#documentclass"
                     );
                   }}
                 >

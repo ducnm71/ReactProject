@@ -63,7 +63,7 @@ const submitFormLogin = async (e) => {
                 localStorage.setItem('class',JSON.stringify(response.data[0].class))
                 toast.success("Sign in successfully!");
                 setTimeout(() =>{
-                    window.location.replace("http://localhost:3000/")
+                    window.location.replace("https://react-project-tawny.vercel.app/")
                 }, 1500)
                 
             }
@@ -92,7 +92,7 @@ const submitFormRegist = async (e) =>{
                 localStorage.setItem('class',JSON.stringify(response.data[0].class))
 
                 setTimeout(() => {
-                    window.location.replace("http://localhost:3000/")
+                    window.location.replace("https://react-project-tawny.vercel.app/")
                 }, 1500)
         })
     } 
